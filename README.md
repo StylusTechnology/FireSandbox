@@ -1,7 +1,7 @@
 FireSandbox
 ===========
 
-A sandbox for the simulation and display of Eulerian Incompressible Fluids in real time
+A sandbox for simulating fluids in real time
 
 FEEL FREE TO TAKE THIS STUFF AND USE IT!
 NONE OF THE TECHNIQUES I USE ARE NEW, 
