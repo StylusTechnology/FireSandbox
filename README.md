@@ -9,7 +9,7 @@ ALL ARE IN THE PUBLIC DOMAIN, AND I HAD
 SO MUCH TROUBLE FINDING THIS STUFF, THAT 
 NO ONE ELSE SHOULD HAVE TO DO THE SAME.
 
-  Stylus Technologies
+  Stylus Technologies \n
 Okay, so this is a little bit messy, so sue me.
 This is what I call a bag of tricks simulation, 
 I use the semi-lagrangian advection algorythm, 
